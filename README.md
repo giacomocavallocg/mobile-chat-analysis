@@ -62,6 +62,6 @@ python main.py path/my_chat.txt
 [Android](https://faq.whatsapp.com/android/chats/how-to-save-your-chat-history/?lang=it)
 
 
-#####Author 
+### Author 
 Cavallo Giacomo [Linkedin](https://www.linkedin.com/in/giacomo-cavallo-b29516157/)
 
